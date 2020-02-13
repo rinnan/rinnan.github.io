@@ -10,6 +10,8 @@ redirect_from:
 
 **Spatial planning for global terrestrial and marine biodiversity conservation**
 
+test test
+
 The [Half-Earth Project](https://www.half-earthproject.org/) posits that we must set aside half of the earth for the successful preservation of biodiversity. I am using a spatial conservation planning framework to address the question most succinctly stated: *“Which half?”* Working closely with the [E.O. Wilson Biodiversity Foundation](https://eowilsonfoundation.org/) and [Map of Life](https://mol.org/), I combine global patterns of the distributions of 30,000+ terrestrial vertebrates with human land use layers, and use a linear optimization approach to design global conservation networks that protect a sufficient amount of habitat for every species. I am also doing a similar study for the marine environment, focusing on marine mammals and commonly harvested fish species.
 
 Much of this research is designed to support the Convention on Biological Diversity and its associated Aichi Biodiversity Targets, and to help inform international negotiations of a post-2020 Global Biodiversity Framework, reflecting the best available science and most complete and up-to-date portrait of the planet's biodiversity. A key feature of the results is that the burden of conservation is highly geographically variable, necessitating individualized conservation targets and goals at the national level as well as the species level.
