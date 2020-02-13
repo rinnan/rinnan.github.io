@@ -29,7 +29,8 @@ I authored and maintain an R package that provides methods for visualization of 
 
 Available at [https://cran.r-project.org/package=CENFA](https://cran.r-project.org/package=CENFA) and [https://github.com/rinnan/CENFA](https://github.com/rinnan/CENFA).
 
-**Incorporating biological and ecological realism into species distribution modeling**
+Incorporating biological and ecological realism into species distribution modeling
+----------------------------------------------------------------------------------
 
 One common criticism of species distribution models (SDMs) is their lack of realism: describing the relationship between a species and its environment using only statistical correlations ignores all of the ecological and physiological processes that constrain the distributions of populations. By not accounting for dispersal ability, for example, SDMs fail to provide any insight into a species' ability to successfully colonize new areas identified as potentially suitable future habitat. As such, SDMs can greatly underestimate species vulnerability to climate change. 
 
