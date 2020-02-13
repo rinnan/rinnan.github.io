@@ -7,6 +7,8 @@ redirect_from:
   - /research.html
 ---
 
+{% include base_path %}
+
 Here are some brief outlines of some of my current and ongoing research projects and interests.
 
 
