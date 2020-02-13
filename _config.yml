@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "D. Scott Rinnan"
   avatar           : "profile.png"
-  bio              : "Postdoctoral research associate at Yale University, specializing in quantitative and landscape ecology"
+  bio              : "Quantitative, landscape, and conservation ecology"
   location         : "New Haven, CT USA"
   employer         :
   pubmed           : 
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
