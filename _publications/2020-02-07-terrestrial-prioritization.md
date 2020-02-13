@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-02-07
 venue: 'bioRxiv (and in review)'
 paperurl: 'http://rinnan.github.io/files/Rinnan2020_Terrestrial_prioritization.pdf'
-citation: '<b>Rinnan DS</b>, Jetz W. "Terrestrial conservation opportunities and inequities revealed by global multi-scale prioritization." <i>bioRxiv</i>. <a href="https://doi.org/10.1101/2020.02.05.936047"></a>'
+citation: '<b>Rinnan DS</b>, Jetz W. "Terrestrial conservation opportunities and inequities revealed by global multi-scale prioritization." <i>bioRxiv</i>. https://doi.org/10.1101/2020.02.05.936047'
 ---
 
 <b>Abstract:</b>
@@ -15,5 +15,5 @@ Area-based conservation through reserves or other measures is vital for preservi
 
 <figure>
   <img src="/images/terrestrial-prioritization.png" alt="Testing">
-  <figcaption>A putative 1km conservation area network that provides protection for all terrestrial vertebrates while minimizing the amount area of needed and the degree of human modification (HM) contained therein. Amounts in parentheses indicate the total percentage of habitable terrestrial surface area contained in the network by degree of HM. Dark grey cells denote the locations without species occurrences that were excluded from calculations of global area coverage. Inset panels show three possible examples of reserve network configuration within a single 55km grid cell, all with the same total area: (A) minimizes HM; (B) minimizes boundary length; (C) minimizes HM while ensuring network connectivity.</figcaption>
+  <figcaption>Figure 2: A putative 1km conservation area network that provides protection for all terrestrial vertebrates while minimizing the amount area of needed and the degree of human modification (HM) contained therein. Amounts in parentheses indicate the total percentage of habitable terrestrial surface area contained in the network by degree of HM. Dark grey cells denote the locations without species occurrences that were excluded from calculations of global area coverage. Inset panels show three possible examples of reserve network configuration within a single 55km grid cell, all with the same total area: (A) minimizes HM; (B) minimizes boundary length; (C) minimizes HM while ensuring network connectivity.</figcaption>
 </figure>
