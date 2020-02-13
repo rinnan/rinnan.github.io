@@ -28,3 +28,17 @@ Much of this research is designed to support the [Convention on Biological Diver
 I authored and maintain an R package that provides methods for visualization of spatial variability of species sensitivity, exposure, and vulnerability to climate change. This package complements [previous work of mine](https://rinnan.github.io/publication/2019-09-01-climate-niche-factor-analysis), and updates the ENFA method for use with large datasets and modern data formats. It also includes some functions for speeding up certain raster functions considerably via parallelization.
 
 Available at https://cran.r-project.org/package=CENFA and https://github.com/rinnan/CENFA.
+
+**Incorporating biological and ecological realism into species distribution modeling**
+
+One common criticism of species distribution models (SDMs) is their lack of realism: describing the relationship between a species and its environment using only statistical correlations ignores all of the ecological and physiological processes that constrain the distributions of populations. By not accounting for dispersal ability, for example, SDMs fail to provide any insight into a species' ability to successfully colonize new areas identified as potentially suitable future habitat. As such, SDMs can greatly underestimate species vulnerability to climate change. 
+
+Integro-difference equations (IDEs), by contrast, offer a modeling approach that provides a mechanistic understanding of how species traits shape long-term population dynamics. IDEs are quite flexible and can accommodate a wide variety of models, including stage-structure in populations, resource competition by multiple species, changes in habitat quality, density dependence, and environmental and demographic stochasticity. Despite their flexibility, integro-difference models are more theoretical in nature, and typically use an oversimplified notion of species habitat, often reducing it down to a single spatial dimension. While this is useful for understanding population dynamics and processes, it provides little insight into how these processes translate to a physical landscape.
+
+I am developing and exploring a novel modeling framework that bridges the gap between these two approaches by combining the strengths of SDM and IDE techniques. This framework provides key insight into how traits such as growth rate and dispersal ability affect long-term population stability in a changing environment.
+
+<figure>
+  <img src="/images/idm.jpg" alt="Model comparison.">
+  <figcaption>Differences in model predictions for <i>Ochotona princeps<i>. (a) Historical predictions of a traditional SDM. No discernment is made between occupied and suitable habitat. (b) Future predictions of the SDM in (a). The suitable habitat has shifted due to climate change, with no difference between suitable and occupied habitat. (c) Future predictions of a two-dimensional IDE with no specification of habitat quality. The population has grown and dispersed into new habitat, with an invasion speed determined by the growth rate and dispersal ability. (d) Future predictions of the IDM. The suitable habitat has shifted due to climate change, but the population is limited by dispersal ability and growth rate. Some population is lost due to habitat becoming unsuitable. The SDM in (a) serves as the habitat quality function of the IDM.</figcaption>
+</figure>
+
