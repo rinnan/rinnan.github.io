@@ -27,7 +27,7 @@ Much of this research is designed to support the [Convention on Biological Diver
 
 I authored and maintain an R package that provides methods for visualization of spatial variability of species sensitivity, exposure, and vulnerability to climate change. This package complements [previous work of mine](https://rinnan.github.io/publication/2019-09-01-climate-niche-factor-analysis), and updates the ENFA method for use with large datasets and modern data formats. It also includes some functions for speeding up certain raster functions considerably via parallelization.
 
-Available at https://cran.r-project.org/package=CENFA and https://github.com/rinnan/CENFA.
+Available at [https://cran.r-project.org/package=CENFA](https://cran.r-project.org/package=CENFA) and [https://github.com/rinnan/CENFA](https://github.com/rinnan/CENFA).
 
 **Incorporating biological and ecological realism into species distribution modeling**
 
