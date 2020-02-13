@@ -6,5 +6,5 @@ excerpt: ''
 date: 2018-03-01
 venue: 'Theoretical Ecology'
 paperurl: 'http://rinnan.github.io/files/Rinnan2018_Asymmetric_dispersal_success.pdf'
-citation: '<b>Rinnan DS</b>. "The dispersal success and persistence of populations with asymmetric dispersal." <i>Theoretical Ecology<i>, 11(1), 55-69. <a href="https://doi.org/10.1007/s12080-017-0348-x"></a>'
+citation: '<b>Rinnan DS</b>. "The dispersal success and persistence of populations with asymmetric dispersal." <i>Theoretical Ecology<i>, 11(1), 55-69. https://doi.org/10.1007/s12080-017-0348-x'
 ---
