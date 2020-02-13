@@ -38,7 +38,7 @@ Integro-difference equations (IDEs), by contrast, offer a modeling approach that
 I am developing and exploring a novel modeling framework that bridges the gap between these two approaches by combining the strengths of SDM and IDE techniques. This framework provides key insight into how traits such as growth rate and dispersal ability affect long-term population stability in a changing environment.
 
 <figure>
-  <img src="/images/idm.jpg" alt="Model comparison.">
+  <img src="/images/idm.jpg" alt="Model comparison." style="width:80%;height:80%;">
   <figcaption>Differences in model predictions for <i>Ochotona princeps<i>. (a) Historical predictions of a traditional SDM. No discernment is made between occupied and suitable habitat. (b) Future predictions of the SDM in (a). The suitable habitat has shifted due to climate change, with no difference between suitable and occupied habitat. (c) Future predictions of a two-dimensional IDE with no specification of habitat quality. The population has grown and dispersed into new habitat, with an invasion speed determined by the growth rate and dispersal ability. (d) Future predictions of the IDM. The suitable habitat has shifted due to climate change, but the population is limited by dispersal ability and growth rate. Some population is lost due to habitat becoming unsuitable. The SDM in (a) serves as the habitat quality function of the IDM.</figcaption>
 </figure>
 
