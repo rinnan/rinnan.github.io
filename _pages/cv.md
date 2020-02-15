@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * Ph.D., Quantitative Ecology and Resource Management (QERM), University of Washington, June 2018
-  - Title: “Modeling population dynamics and species interactions in a changing climate”
-  - Committee: Joshua Lawler (chair), Mark Kot, Laura Prugh, Trevor Branch, Janneke Hille Ris Lambers
+    Title: “Modeling population dynamics and species interactions in a changing climate”
+    Committee: Joshua Lawler (chair), Mark Kot, Laura Prugh, Trevor Branch, Janneke Hille Ris Lambers
 * M.S., QERM, University of Washington, March 2015
   Title: “Quantifying sensitivity and exposure to climate change in Western North American species”
 * B.S., Mathematics, The Evergreen State College (TESC), June 2005
