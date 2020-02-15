@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+![Download CV here](http://rinnan.github.io/files/Rinnan_CV.pdf)
+
 {% include base_path %}
 
 Education
