@@ -23,15 +23,45 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Associate, Yale Center for Biodiversity and Global Change, Yale University, 2018 – present
+        	 Project title: “Reserve network design for the global conservation of terrestrial vertebrates”
+* Co-Instructor, Ecology & Evolutionary Biology Department, Yale, 2019
+ 	   •   Course title: Biodiversity Change Research in the Age of Big Data
+* Instructor, Professional and Continuing Education Program, UW, 2016 – 2018
+                •    Course title: Data Analysis and Modeling with R
+* Research Assistant, UW, 2011 – 2018
+                •    Project title: “Measuring habitat outcomes of state acquisitions and regulations”
+                •    Project title: “Assessing return on conservation investment in the face of climate change”
+                •    Project title: “Modeling the effects of species range shifts”
+                •    Project title: “Pacific Northwest climate change vulnerability assessment”
+* Teaching Assistant, Professional and Continuing Education Program, UW, 2014 – 2016  
+                •    Course title: Intro to Statistical Analysis with R
+                •    Course title: Data Analysis and Modeling with R
+                •    Course title: Advanced R Programming and Graphics
+* Tutor, self-employed, 2006 – 2011  
+                •    Subjects included mathematics, physics, chemistry, English, Spanish
+* Teaching Assistant, TESC, Olympia, WA, 2004 – 2005  
+                •    Program title: Methods of Applied Mathematics. Courses included nonlinear dynamics, linear algebra, mathematical biology, differential equations
+* Tutor, Quantitative Reasoning Center, TESC, Olympia, WA, 2004 – 2005  
+                •    Subjects included mathematics, physics, chemistry, biology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Science advisory work
+======
+* 2019 – present Member of the Nature Map Earth consortium, contributing biodiversity science and expertise 
+   to guide policy for the Convention on Biological Diversity’s post-2020 framework
+* 2019 Scientific consultant for the Rainforest XPRIZE design
+* 2019 “Gaining consensus on spatial and temporal biodiversity metrics for informed decision-making”, 
+                Map of Life representative to the UN Environment World Conservation Monitoring Centre
+* 2018 – present “Which half? A spatial reserve network for the preservation of every terrestrial vertebrate”,
+	   decision science and education support for the E.O. Wilson Biodiversity Foundation’s Half-Earth Project
+* 2017 “Measuring habitat outcomes of state acquisitions and regulations”, report for the Joint Legislative Audit 
+                and Review Committee, Washington State Legislature, coauthor
+* 2015 – 2017 “Protecting geophysical diversity as a strategy for biodiversity conservation and land 
+                prioritization in the face of climate change in western North America”, coauthor and mentor for 
+                Rosemary Pazdral, graduated, M.S. student
+* 2015 – 2016 “Climate change vulnerability assessment for the Treaty of Olympic Tribes”, report for the 
+   Quinault Indian Nation, Hoh Tribe, and Quileute Tribe, contributor
+
   
 Skills
 ======
