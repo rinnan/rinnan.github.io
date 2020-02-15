@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are some brief descriptions of my experiences with teaching.
+Here is a brief list of my teaching experience.
 
 * **Co-instructor:** Yale University, Spring 2019
   * Course title: Biodiversity Change Research in the Age of Big Data
