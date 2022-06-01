@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-02-07
 venue: 'bioRxiv (and in review)'
 paperurl: 'http://rinnan.github.io/files/Rinnan2020_Terrestrial_prioritization.pdf'
-citation: '<b>Rinnan DS</b> and Jetz W. "Terrestrial conservation opportunities and inequities revealed by global multi-scale prioritization." <i>bioRxiv</i>. https://doi.org/10.1101/2020.02.05.936047'
+citation: '<b>Rinnan DS</b> and Jetz W. "Terrestrial conservation opportunities and inequities revealed by global multi-scale prioritization." <i>bioRxiv</i>. <a href="https://doi.org/10.1101/2020.02.05.936047" target="_blank">https://doi.org/10.1101/2020.02.05.936047</a>'
 ---
 
 <b>Abstract:</b>
