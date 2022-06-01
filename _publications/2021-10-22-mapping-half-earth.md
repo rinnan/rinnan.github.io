@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-10-22
 venue: 'GIS for Science, Vol. 3: Maps for Saving the Planet'
 paperurl: 'http://rinnan.github.io/files/Rinnan2021_Mapping_Half-Earth.pdf'
-citation: '<b>Rinnan DS<\b>, Vega GC, Casal E, Williams C, Heltne C, Johnson J. Mapping Half-Earth. In “<i>GIS for 
+citation: '<b>Rinnan DS</b>, Vega GC, Casal E, Williams C, Heltne C, Johnson J. Mapping Half-Earth. In “<i>GIS for 
 Science, Vol. 3: Maps for Saving the Planet</i>”, Esri Press, Redlands, CA.'
 
 ---
