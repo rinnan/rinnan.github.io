@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-02-01
 venue: 'Nature Ecology & Evolution'
 paperurl: 'http://rinnan.github.io/files/Jetz2021_Biodiversity_indicators.pdf'
-citation: 'Jetz W, McGowan J, <b>Rinnan DS<\b>, Possingham HP, Visconti P, O’Donnell B, Londoño-Murcia MC. "Include biodiversity representation indicators in area-based conservation targets." <i>Nature Ecology & Evolution 6(2), 123-126</i>. https://doi.org/10.1038/s41559-021-01620-y'
+citation: 'Jetz W, McGowan J, <b>Rinnan DS</b>, Possingham HP, Visconti P, O’Donnell B, Londoño-Murcia MC. "Include biodiversity representation indicators in area-based conservation targets." <i>Nature Ecology & Evolution 6(2), 123-126</i>. https://doi.org/10.1038/s41559-021-01620-y'
 ---
 
 <b>Abstract:</b>
