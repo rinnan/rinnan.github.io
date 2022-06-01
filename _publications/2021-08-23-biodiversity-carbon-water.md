@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-08-23
 venue: 'Nature Ecology & Evolution'
 paperurl: 'http://rinnan.github.io/files/Jung2021_Biodiversity_carbon_water.pdf'
-citation: 'Jung MA, [and 51 others, including <b>Rinnan DS</b>]. "Areas of global importance for conserving terrestrial biodiversity, carbon and water." <i>Nature Ecology & Evolution</i> 5(11), 1499-1509. https://doi.org/10.1038/s41559-021-01528-7'
+citation: 'Jung MA, [and 51 others, including <b>Rinnan DS</b>]. "Areas of global importance for conserving terrestrial biodiversity, carbon and water." <i>Nature Ecology & Evolution</i> 5(11), 1499-1509. <a href="https://doi.org/10.1038/s41559-021-01528-7" target="_blank"> https://doi.org/10.1038/s41559-021-01528-7</a>'
 ---
   
 <b>Abstract:</b>
