@@ -17,5 +17,5 @@ Spatial biodiversity knowledge is vital for effective conservation planning. The
 
 <figure>
   <img src="/images/mapping-half-earth.png" alt="Geographic disparities in species occurrence data.">
-  <figcaption>Spatial occurrence data of plant (red) and animal (blue) species contributed to GBIF in 2020. Central Park in Manhattan (left) contains 9,104 unique observations in an area of only 3.4 km^2, compared to just 3,846 unique observations in the entirety of Madagascar (right), with an area of 587,041 km^2.</figcaption>
+  <figcaption>Spatial occurrence data of plant (red) and animal (blue) species contributed to GBIF in 2020. Central Park in Manhattan (left) contains 9,104 unique observations in an area of only 3.4 km$^2$, compared to just 3,846 unique observations in the entirety of Madagascar (right), with an area of 587,041 km$^2$.</figcaption>
 </figure>
