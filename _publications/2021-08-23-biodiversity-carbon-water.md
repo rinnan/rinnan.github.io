@@ -1,5 +1,5 @@
 ---
-  title: "Areas of global importance for conserving terrestrial biodiversity, carbon and water"
+title: "Areas of global importance for conserving terrestrial biodiversity, carbon and water"
 collection: publications
 permalink: /publication/2021-08-23-biodiversity-carbon-water
 excerpt: ''
@@ -16,4 +16,4 @@ To meet the ambitious objectives of biodiversity and climate conventions, the in
 <figure>
   <img src="/images/biodiversity-carbon-water.png" alt="Global areas of conservation importance for terrestrial biodiversity, carbon and water.">
   <figcaption>Fig. 1: <b>Global areas of conservation importance for terrestrial biodiversity, carbon and water.</b> All features were jointly optimized with equal weighting given to each feature (the central point in the series of segments in Fig. 2) and ranked by the most (1–10) to least (90–100) valuable areas to conserve globally. The triangle plot shows the extent to which protecting the top-ranked 10% and 30% of global land areas (the dark brown and yellow areas on the map) contributes to minimize the number of threatened species, storing carbon and ensuring clean water. The percentages in the triangle plot refer to the proportion of all species targets reached (Fig. 3) or the average shortfall of carbon and water. The map is at 10 km resolution in a mollweide projection. A map highlighting the uncertainty in priority ranks is shown in extended Data Fig. 1.</figcaption>
-  </figure>
+</figure>
