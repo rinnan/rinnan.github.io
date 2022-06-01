@@ -21,5 +21,5 @@ Spatial biodiversity knowledge is vital for effective conservation planning. The
 </figure>
 
 <figure>
-  <img src="/images/gis-for-science.png" alt="GIS for Science, Vol. 3.">
+  <img src="/images/gis-for-science.jpg" alt="GIS for Science, Vol. 3.">
 </figure>
