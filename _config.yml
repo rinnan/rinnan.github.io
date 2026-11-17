@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "D. Scott Rinnan"
 title_separator          : "-"
 name                     : &name "D. Scott Rinnan"
-description              : &description "Postdoctoral research associate at Yale University"
+description              : &description "Data Scientist at Yale University"
 url                      : https://rinnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rinnan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "D. Scott Rinnan, Ph.D."
   avatar           : "profile.png"
-  bio              : "Diversity, equity, and justice through data science."
+  bio              : "Social and environmental progress through data science."
   location         : "New Haven, CT USA"
   employer         :
   pubmed           : 
